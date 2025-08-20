@@ -8,8 +8,7 @@ It uses **Logistic Regression**, which is a popular **classification algorithm**
 
 ## 📂 Project Files
 - `Cancer_Prediction.ipynb` → Full Jupyter Notebook (explanations + code)  
-- `Cancer_Prediction_CodeOnly.ipynb` → Notebook with only **code cells**  
-- `Cancer_Prediction_CodeOnly.py` → Python script version (directly runnable)  
+  
 - `README.md` → Project documentation  
 
 ---
